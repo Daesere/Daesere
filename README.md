@@ -8,7 +8,7 @@ I use this GitHub to document projects I've built throughout my Software Enginee
 
 ### Personal & Open-Source Projects
 
-| Project                           | Description                                                                                                         | Technologies                                |
+| Highlighted Project                           | Description                                                                                                         | Technologies                                |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | **Spishy Speech Trainer**         | Speech-training application combining speech recognition with language models.                                      | Wav2Vec2, eSpeak-NG, Qwen3                  |
 | **ViewInter**                     | Peer-to-peer video conferencing platform developed for ConUHacks X.                                                 | TypeScript, JavaScript, WebRTC              |
