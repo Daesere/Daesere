@@ -4,11 +4,11 @@ Software Engineering student at McGill University interested in **software engin
 
 I use this GitHub to document projects I've built throughout my Software Engineering degree, including personal projects, hackathons, AI/ML experiments, and selected coursework.
 
-## Projects
+## Highlighted Projects
 
 ### Personal & Open-Source Projects
 
-| Highlighted Project                           | Description                                                                                                         | Technologies                                |
+| Project                           | Description                                                                                                         | Technologies                                |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | **Spishy Speech Trainer**         | Speech-training application combining speech recognition with language models.                                      | Wav2Vec2, eSpeak-NG, Qwen3                  |
 | **ViewInter**                     | Peer-to-peer video conferencing platform developed for ConUHacks X.                                                 | TypeScript, JavaScript, WebRTC              |
